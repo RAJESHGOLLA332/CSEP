@@ -42,3 +42,4 @@ while(1):
         print(r.count('1'))
     except:
         break
+print("mystery")
